@@ -5,6 +5,7 @@
 
     HOME
 
+<button class="btn-primary">accueil</button>
 
 </main>
 

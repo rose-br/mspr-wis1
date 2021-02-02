@@ -10803,6 +10803,40 @@ nav > ul li:hover .sous {
   font-size: 12px;
 }
 
-.text-center {
-  color: red;
+footer {
+  border: 2px red solid;
+  margin: 0;
+  padding: 5px;
+  background-color: #3e3e3e;
+  color: #ffffff;
+}
+
+#description {
+  color: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: auto;
+}
+
+#navbar-footer ul li a {
+  border: solid 8px yellow;
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+}
+
+#description .container {
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+  -moz-column-count: inherit;
+       column-count: inherit;
+}
+
+#span {
+  background-color: #2e2e2e;
+  max-width: inherit;
+}
+
+#footer-nav {
+  width: 50%;
 }

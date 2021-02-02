@@ -1,3 +1,4 @@
+<?php require_once 'head.php'; ?>
 <hr>
 
 <footer>
@@ -9,7 +10,7 @@
 
                <li>
                    <span> 16 rue du générale de Gaulle </span>
-                   <span> + 33 6 25 ** 45 98 </span>
+                   <span> + 33 6 25 24 45 98 </span>
                    <span> mail: contact@mcmbeauty.com </span>
                </li>
 
@@ -37,7 +38,7 @@
                             <a href="#">A propos</a>
                         </li>
                         <li>
-                            <a href="#">contact</a>
+                            <a href="#">Contact</a>
                         </li>
                     </ul>
                 </nav>
@@ -45,7 +46,7 @@
         </section>
     </section>
 
-    <div id="span">copyright 2020 - Classe de WIS 1</div>
+    <div id="span">copyright 2020 - MCM beauty</div>
 
 </footer>
 

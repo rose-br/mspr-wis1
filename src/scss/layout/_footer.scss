@@ -1,13 +1,13 @@
 footer {
-  border: 2px red solid;
+  border: 8px red solid;
   margin: 0;
   padding: 5px;
-  background-color: #3e3e3e;
-  color: #ffffff;
+  background-color: #CEC7F2;
+
 }
 
 #description {
-  color: #ffffff;
+
   display: flex;
   max-width: 1200px;
   margin: auto;
@@ -15,7 +15,6 @@ footer {
 }
 
 #navbar-footer ul li a {
-  border:solid 8px yellow;
   display: flex;
   text-decoration: none;
   color: inherit;
@@ -23,11 +22,10 @@ footer {
 
 #description .container {
   column-gap: 20px;
-  column-count: inherit;
 }
 
 #span {
-  background-color: #2e2e2e;
+  background-color: #CEC7F2;
   max-width: inherit;
 }
 

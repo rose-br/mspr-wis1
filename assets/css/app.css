@@ -10803,6 +10803,35 @@ nav > ul li:hover .sous {
   font-size: 12px;
 }
 
-.text-center {
-  color: red;
+footer {
+  border: 8px red solid;
+  margin: 0;
+  padding: 5px;
+  background-color: #CEC7F2;
+}
+
+#description {
+  display: flex;
+  max-width: 1200px;
+  margin: auto;
+}
+
+#navbar-footer ul li a {
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+}
+
+#description .container {
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}
+
+#span {
+  background-color: #CEC7F2;
+  max-width: inherit;
+}
+
+#footer-nav {
+  width: 50%;
 }

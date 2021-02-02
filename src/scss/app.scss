@@ -1,3 +1,14 @@
 @import "variables";
 
+// Libraries
 @import "~bootstrap";
+
+// Layout
+@import "layout/main";
+@import "layout/header";
+@import "layout/footer";
+
+// Pages
+@import "pages/home";
+
+// Components

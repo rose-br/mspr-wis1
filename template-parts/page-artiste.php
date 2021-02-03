@@ -1,3 +1,5 @@
+<?php require_once 'template-parts/header.php' ?>
+
 <section id="card">
 <div class="container">
     <div class="card" style="width: 300px;">
@@ -81,3 +83,4 @@
 
 
 
+<?php require_once 'template-parts/footer.php'; ?>

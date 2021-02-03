@@ -1,5 +1,4 @@
 <?php require_once 'head.php'; ?>
-"
 <footer>
 
         <section id="footer-nav text-align center">
@@ -50,7 +49,7 @@
             </div>
         </section>
 
-    <div id="span"><strong> copyright 2020 - MCM beauty <strong/> </div>
+    <div id="span"> <strong> copyright 2020 - MCM beauty <strong/> </div>
 
 
 

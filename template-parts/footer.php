@@ -45,7 +45,7 @@
         </section>
     </section>
 
-    <div id="span">copyright 2020 - MCM beauty</div>
+    <div id="span"><strong> copyright 2020 - MCM beauty <strong/> </div>
 
 </footer>
 

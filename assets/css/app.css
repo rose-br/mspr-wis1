@@ -10788,6 +10788,15 @@ textarea.form-control-lg {
 }
 
 footer {
+<<<<<<< HEAD
+  border: 8px red solid;
+  margin: 0;
+  padding: 5px;
+  background-color: #CEC7F2;
+}
+
+#description {
+=======
   border: 2px red solid;
   margin: 0;
   padding: 5px;
@@ -10797,13 +10806,17 @@ footer {
 
 #description {
   color: #ffffff;
+>>>>>>> master
   display: flex;
   max-width: 1200px;
   margin: auto;
 }
 
 #navbar-footer ul li a {
+<<<<<<< HEAD
+=======
   border: solid 8px yellow;
+>>>>>>> master
   display: flex;
   text-decoration: none;
   color: inherit;
@@ -10812,12 +10825,19 @@ footer {
 #description .container {
   -moz-column-gap: 20px;
        column-gap: 20px;
+<<<<<<< HEAD
+}
+
+#span {
+  background-color: #CEC7F2;
+=======
   -moz-column-count: inherit;
        column-count: inherit;
 }
 
 #span {
   background-color: #2e2e2e;
+>>>>>>> master
   max-width: inherit;
 }
 

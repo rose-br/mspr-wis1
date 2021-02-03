@@ -1,0 +1,47 @@
+#main {
+  * {
+
+    box-sizing: border-box;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    margin: auto;
+    max-width: 1200px;
+  }
+
+  #home-jumbotron {
+    background-color: mediumpurple;
+    background-size: cover;
+  }
+
+  #home-prestation {
+
+  }
+
+  #home-prestation .container {
+
+
+  }
+
+  #home-prestation .text-wrapper {
+    text-align: center;
+    color: red;
+  }
+
+  #intermedia {
+    background-color: mediumpurple;
+    background-size: cover;
+  }
+}
+
+.card-text {
+  margin-left: 100px;
+}

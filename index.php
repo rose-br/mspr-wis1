@@ -1,6 +1,4 @@
 <?php require_once 'template-parts/header.php'; ?>
-<?php require_once 'template-parts/page form.php' ?>
-<?php require_once 'template-parts/page-artiste.php' ?>
 <hr
 <hr
 

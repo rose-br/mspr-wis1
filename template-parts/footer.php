@@ -26,22 +26,22 @@
                         <h2>Plan du site</h2>
 
                             <ul>
-                                <a href="/#/">Accueil </a>
+                                <a href="/index.php/">Accueil </a>
                             </ul>
                             <ul>
-                                <a href="#"> Qui sommes-nous </a>
+                                <a href="qui-sommes-nous.php"> Qui sommes-nous </a>
                             </ul>
                             <ul>
                                 <a href="#">Les prestations </a>
                             </ul>
                             <ul>
-                                <a href="#">Prestations modèles</a>
+                                <a href="prestataire.php">Prestations modèles</a>
                             </ul>
                             <ul>
-                                <a href="#">A propos</a>
+                                <a href="a-propos.php">A propos</a>
                             </ul>
                             <ul>
-                                <a href="#">Contact</a>
+                                <a href="contact.php">Contact</a>
                             </ul>
 
                     </div>

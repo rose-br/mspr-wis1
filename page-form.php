@@ -1,18 +1,26 @@
 <?php require_once 'template-parts/header.php'; ?>
+    <section id="home-hero" style="background-image: url(assets/images/image-home.jpg)">
 
-<section id="form text-align">
 
-    <div class="container">
-        <h1>Formulaire pour etre le modèle d'un étudiant</h1>
-        <p> A quoi ça sert d'etre modèle ?Imaginer, pour quelques euros symbolique vous aurez un make-up, une coupe, une manucure faite 
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam enim expedita labore natus nesciunt quis reiciendis voluptate!
-            Animi beatae doloremque in ipsa mollitia nihil nulla pariatur quae quaerat repudiandae saepe totam ullam unde, vel voluptatibus!
-            Deleniti fugit itaque quas sed sint sit ullam? Deleniti, ducimus, perferendis repudiandae saepe totam ullam unde.
-            Ab animi autem beatae cum deleniti deserunt dolor dolorum eaque earum est exercitationem illum ipsam, ipsum iure necessitatibus
-            nemo nesciunt nobis non optio quam, quia rem rerum voluptates. Aperiam eos eum praesentium quasi voluptate?</p>
-    </div>
+    <section id="form text-align">
 
-</section>
+        <div class="container">
+            <h1>Formulaire pour etre le modèle d'un étudiant</h1>
+            <p> A quoi ça sert d'etre modèle ?Imaginer, pour quelques euros symbolique vous aurez un make-up, une coupe,
+                une manucure faite
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam enim expedita labore natus nesciunt
+                quis reiciendis voluptate!
+                Animi beatae doloremque in ipsa mollitia nihil nulla pariatur quae quaerat repudiandae saepe totam ullam
+                unde, vel voluptatibus!
+                Deleniti fugit itaque quas sed sint sit ullam? Deleniti, ducimus, perferendis repudiandae saepe totam
+                ullam unde.
+                Ab animi autem beatae cum deleniti deserunt dolor dolorum eaque earum est exercitationem illum ipsam,
+                ipsum iure necessitatibus
+                nemo nesciunt nobis non optio quam, quia rem rerum voluptates. Aperiam eos eum praesentium quasi
+                voluptate?</p>
+        </div>
+
+    </section>
     <div class="container">
 
         <legend>Formulaire de contact</legend>
@@ -21,19 +29,24 @@
                 <label for="first_name" class="form-label">Prénom </label>
                 <input type="text" class="form-control"
                        id="exampleFormControlInput1"
-                       placeholder="Dominique">
+                       placeholder="Dominique"
+                       required
+                       required>
+
             </div>
             <div class="mb-3">
                 <label for="last_name" class="form-label">Nom </label>
                 <input type="text" class="form-control"
                        id="exampleFormControlInput1"
-                       placeholder="Dupont">
+                       placeholder="Dupont"
+                       required>
             </div>
             <div class="mb-3">
                 <label for="mail" class="form-label">Adresse mail</label>
                 <input type="email" class="form-control"
                        id="exampleFormControlInput1"
-                       placeholder="name@example.com">
+                       placeholder="name@example.com"
+                       required>
             </div>
             <div class="mb-3">
                 <label for="text" class="form-label">Message</label>
@@ -43,35 +56,29 @@
             </div>
 
 
-            <legend>Vous êtes ?</legend>
-            <div>
-                <input type="radio" id="check-1" name="option-radio">
-                <label for="check-1">Femme</label>
-
-                <input type="radio" id="check-2" name="option-radio">
-                <label for="check-2">Homme</label>
+<div class="container m-3">
+    <legend> Vous voulez être modèle pour:</legend>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Maquillage</label>
             </div>
 
-            <legend> Vous voulez être modèle pour:</legend>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Coiffure</label>
+            </div>
 
-                <div class="form-check form-switch">
-                    <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Maquillage</label>
-                </div>
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
+                <label class="form-check-label" for="flexSwitchCheckDefault">Manucure</label>
+            </div>
+    </div>
 
-                <div class="form-check form-switch">
-                    <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Coiffure</label>
-                </div>
-
-                <div class="form-check form-switch">
-                    <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Manucure</label>
-                </div>
-
-
+            <div class="button-wrapper py-5 text-center">
+                <button class="btn btn-primary" type="submit">Envoyer</button>
+            </div>
         </form>
     </div>
-</section>
-
+    </form>
+    </section>
 <?php require_once 'template-parts/footer.php'; ?>

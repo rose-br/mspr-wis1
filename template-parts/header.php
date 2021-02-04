@@ -2,13 +2,13 @@
 <header id="header">
     <nav>
         <ul>
-            <li><a href="#">Accueil</a></li>
+            <li><a href="index">Accueil</a></li>
             <li><a href="#">Qui somme nous ?</a></li>
             <li class="deroulant"><a href="#">Les préstations &ensp;</a>
                 <ul class="sous">
-                    <li><a href="template-parts/maquillage.php">Maquillage</a></li>
-                    <li><a href="template-parts/manucure.php">Manucure</a></li>
-                    <li><a href="template-parts/coiffure.php">Coiffure</a></li>
+                    <li><a href="maquillage">Maquillage</a></li>
+                    <li><a href="manucure">Manucure</a></li>
+                    <li><a href="coiffure">Coiffure</a></li>
                 </ul>
             </li>
             <li><a href="#">Candidature modèle</a></li>

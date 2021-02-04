@@ -1,17 +1,12 @@
 <?php require_once 'template-parts/header.php' ?>
 
-<section>
-    <div class="container">
-        <img src="assets/images/makeup-home.jpg">
-    </div>
-</section>
-
-    <section id="carte" >
-
+    <section id="service-cards">
         <div class="container">
-            <h1 class="text-center">Manucure</h1>
-            <div class="row row-cols-1 row-cols-md-3 g-4" >
-                <div class="col">
+
+            <h1 class="text-center">Maquillage</h1>
+
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -26,7 +21,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -40,7 +36,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -54,7 +51,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -68,7 +66,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -82,7 +81,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+
+                <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -96,14 +96,13 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
 
-        <div class="d-grid gap-2 col-6 mx-auto">
-            <button class="btn btn-primary" type="button">Voir les autres services </button>
-            <! -- Mettre un lien vers la page d'accueil ou sinon changer le nom du bouton pour permettre d'aller sur la page de coiffure par exemple -->
+        <div class="d-grid gap-2 col-6 mx-auto py-5">
+            <button class="btn btn-primary" type="button">Voir les autres services</button>
         </div>
     </section>
 
-        </main>
 <?php require_once 'template-parts/footer.php'; ?>

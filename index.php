@@ -1,9 +1,11 @@
 <?php require_once 'template-parts/header.php'; ?>
 
 <main>
+    <body background="assets/images/image-home.jpg"></body>
     <section id="main">
+
+        <img src="assets/images/image-home.jpg">
         <section class="container">
-            <img src="assets/images/image-home.jpg" class="img-fluid" alt="...">
 
             <h5 class="title-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h5>
             <p class="text-home">TLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nibh eu ante

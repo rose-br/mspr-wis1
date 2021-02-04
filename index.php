@@ -82,6 +82,139 @@
         </section>
     </section>
 
+
+    < <section id="name">
+        <div class="card bg-dark text-white">
+            <img src="assets/images/coiffure-home.jpg" class="card-img" alt="Coiffure">
+            <div class="card-img-overlay">
+                <h5 class="card-title">Coiffure</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</p>
+                <p class="card-text">Last updated 3 mins ago</p>
+                <button type="button" class="btn btn-outline-light">Découvrir</button>
+            </div>
+        </div>
+        <div class="card bg-dark text-white">
+            <img src="assets/images/makeup-home.jpg" class="card-img" alt="Coiffure">
+            <div class="card-img-overlay">
+                <h5 class="card-title">Maquillage</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</p>
+                <p class="card-text">Last updated 3 mins ago</p>
+                <button type="button" class="btn btn-outline-light">Découvrir</button>
+            </div>
+        </div>
+        <div class="card bg-dark text-white">
+            <img src="assets/images/manucure-home.jpg" class="card-img" alt="Coiffure">
+            <div class="card-img-overlay">
+                <h5 class="card-title">Manucure</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</p>
+                <p class="card-text">Last updated 3 mins ago</p>
+                <button type="button" class="btn btn-outline-light">Découvrir</button>
+            </div>
+        </div>
+    </section>
+</main>
+
+<section id="carte">
+
+    <div class="container">
+        <h1 class="text-center">Manucure</h1>
+        <div class="row row-cols-1 row-cols-md-3 g-4" >
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Nadine Chauvet</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: professionnel.le</li>
+                            <li class="list-group-item">travail à domicile</li>
+                            <li class="list-group-item">depuis 3 ans</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Naomie Jacquet</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: professionnel.le</li>
+                            <li class="list-group-item">travail à domicile</li>
+                            <li class="list-group-item">depuis 3 ans</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Jeanne Martin</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: Etudiante</li>
+                            <li class="list-group-item">lieu: ecole/salon de coiffure</li>
+                            <li class="list-group-item">En 1ère année de BTS coiffure</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: professionnel.le</li>
+                            <li class="list-group-item">travail à domicile</li>
+                            <li class="list-group-item">depuis 3 ans</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: professionnel.le</li>
+                            <li class="list-group-item">travail à domicile</li>
+                            <li class="list-group-item">depuis 3 ans</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card h-100">
+                    <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">niveau: professionnel.le</li>
+                            <li class="list-group-item">travail à domicile</li>
+                            <li class="list-group-item">depuis 3 ans</li>
+                        </ul>
+                        <a href="#" class="btn btn-primary"> Voir plus </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-grid gap-2 col-6 mx-auto">
+        <button class="btn btn-primary" type="button">Voir les autres services </button>
+        <! -- Mettre un lien vers la page d'accueil ou sinon changer le nom du bouton pour permettre d'aller sur la page de coiffure par exemple -->
+    </div>
+</section>
 </main>
 <?php require_once 'template-parts/footer.php'; ?>
 

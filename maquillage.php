@@ -1,5 +1,11 @@
 <?php require_once 'template-parts/header.php' ?>
 
+<section>
+    <div class="container">
+        <im
+    </div>
+</section>
+
     <section id="service-cards">
         <div class="container">
 
@@ -10,7 +16,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Nadine Chauvet</h5>
+                            <h5 class="card-title"> André Céouver </h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -26,7 +32,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Naomie Jacquet</h5>
+                            <h5 class="card-title">Sam Lécasse</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -41,7 +47,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Jeanne Martin</h5>
+                            <h5 class="card-title">Sarah Masse</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: Etudiante</li>
                                 <li class="list-group-item">lieu: ecole/salon de coiffure</li>

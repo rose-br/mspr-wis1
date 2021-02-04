@@ -3,9 +3,9 @@
 
         <section id="footer-nav text-align center">
             <div class="container">
-                <div class="row align-items-start">
+                <div class="row align-items-center">
                     <div class="col">
-                        <img src="assets/images/—Pngtree—blur%20watercolor%20splash%20ink_4512498.png" width="200px" height="200px">
+                        <img src="assets/images/Logo.png" width="200px" height="200px">
                     </div>
                     <div class="col">
                         <section id="description">

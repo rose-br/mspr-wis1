@@ -1,3 +1,5 @@
+<?php require_once 'template-parts/header.php'; ?>
+
 <section id="form text-align">
 
     <div class="container">
@@ -11,9 +13,6 @@
     </div>
 
 </section>
-
-
-
     <div class="container">
 
         <legend>Formulaire de contact</legend>
@@ -74,3 +73,5 @@
         </form>
     </div>
 </section>
+
+<?php require_once 'template-parts/footer.php'; ?>

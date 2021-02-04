@@ -11,7 +11,7 @@
                     <li><a href="coiffure">Coiffure</a></li>
                 </ul>
             </li>
-            <li><a href="#">Candidature modèle</a></li>
+            <li><a href="page%20form.php">Candidature modèle</a></li>
             <li><a href="#">A propos</a></li>
             <li><a href="#">Contact</a></li>
         </ul>

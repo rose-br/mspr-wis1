@@ -1,2 +1,2 @@
-<?php require_once 'template-parts/page form.php'?>
+<?php require_once 'template-parts/page-form.php'?>
 

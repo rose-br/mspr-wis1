@@ -1,6 +1,6 @@
 <?php require_once 'head.php'; ?>
 <footer>
-
+    
         <section id="footer-nav text-align center">
             <div class="container">
                 <div class="row align-items-center">

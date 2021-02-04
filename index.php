@@ -58,7 +58,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg">
+                <div class="col-lg ">
                     <div class="card bg-dark text-white" style="background-image: url(assets/images/makeup-home.jpg);">
                         <div class="card-body">
                             <h5 class="card-title">Maquillage</h5>

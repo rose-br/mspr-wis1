@@ -1,7 +1,7 @@
 <?php require_once 'template-parts/header.php' ?>
 
 
-    <section id="home-hero" style="background-image: url(assets/images/manucure-home.jpg)">
+    <section id="home-hero1" style="background-image: url(assets/images/manucure-home.jpg)">
 
     </section>
 

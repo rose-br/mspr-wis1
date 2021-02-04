@@ -6,7 +6,7 @@
             <li><a href="#">Qui somme nous ?</a></li>
             <li class="deroulant"><a href="#">Les préstations &ensp;</a>
                 <ul class="sous">
-                    <li><a href="src/scss/components/_page-artiste.scs">Maquillage</a></li>
+                    <li><a href="maquillage.php">Maquillage</a></li>
                     <li><a href="#">Manucure</a></li>
                     <li><a href="#">Coiffure</a></li>
                 </ul>

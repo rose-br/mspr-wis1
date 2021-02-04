@@ -7,8 +7,8 @@
             <li class="deroulant"><a href="#">Les préstations &ensp;</a>
                 <ul class="sous">
                     <li><a href="maquillage.php">Maquillage</a></li>
-                    <li><a href="#">Manucure</a></li>
-                    <li><a href="#">Coiffure</a></li>
+                    <li><a href="manucure.php">Manucure</a></li>
+                    <li><a href="coiffure.php">Coiffure</a></li>
                 </ul>
             </li>
             <li><a href="#">Candidature modèle</a></li>

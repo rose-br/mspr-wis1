@@ -10855,3 +10855,12 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+.card-text {
+  margin-left: 100px;
+}
+
+#carte {
+  padding-top: 100px;
+  padding-bottom: 300px;
+}

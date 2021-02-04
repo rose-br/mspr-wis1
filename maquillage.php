@@ -1,10 +1,9 @@
 <?php require_once 'template-parts/header.php' ?>
 
-<section>
-    <div class="container">
-        <im
-    </div>
-</section>
+    <section id="home-hero" style="background-image: url(assets/images/makeup-home.jpg)">
+
+    </section>
+
 
     <section id="service-cards">
         <div class="container">
@@ -62,7 +61,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Sylvain Ebon</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -77,7 +76,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Terry Dicule</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -92,7 +91,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Théa Louest</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>

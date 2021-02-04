@@ -11,9 +11,9 @@
                     <li><a href="coiffure">Coiffure</a></li>
                 </ul>
             </li>
-            <li><a href="modèle">Candidature modèle</a></li>
-            <li><a href="#">A propos</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="page%20form.php">Candidature modèle</a></li>
+            <li><a href="a-propos.php">A propos</a></li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
     <div class="container">

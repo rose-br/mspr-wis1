@@ -6,27 +6,12 @@
             <h1 class="text-center">Manucure</h1>
 
             <div class="row g-4">
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100">
-                        <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Nadine Chauvet</h5>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
-                            </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
-
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Naomie Jacquet</h5>
+                            <h5 class="card-title">Yves Atremblay</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -41,7 +26,22 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Jeanne Martin</h5>
+                            <h5 class="card-title">Marie Vière</h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">niveau: professionnel.le</li>
+                                <li class="list-group-item">travail à domicile</li>
+                                <li class="list-group-item">depuis 3 ans</li>
+                            </ul>
+                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100">
+                        <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Max Hymôme</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: Etudiante</li>
                                 <li class="list-group-item">lieu: ecole/salon de coiffure</li>
@@ -56,7 +56,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Édith Orial</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -71,7 +71,7 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Camille Onette</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
@@ -86,17 +86,17 @@
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Yvon Enbavé</h5>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">niveau: professionnel.le</li>
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
                             <a href="#" class="btn btn-primary"> Voir plus </a>
+
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
 

@@ -1,6 +1,9 @@
 <?php require_once 'template-parts/header.php' ?>
 
 
+    <section id="home-hero" style="background-image: url(assets/images/coiffure-home.jpg)">
+
+    </section>
 
     <section id="service-cards">
         <div class="container">

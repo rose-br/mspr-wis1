@@ -1,20 +1,15 @@
 <?php require_once 'template-parts/header.php'; ?>
 
-<main>
-    <body background="assets/images/image-home.jpg"></body>
-    <section id="main">
+<main id="main">
 
-        <img src="assets/images/image-home.jpg">
-        <section class="container">
+    <section id="home-hero" style="background-image: url(assets/images/image-home.jpg)">
+        <div class="container">
 
-            <h5 class="title-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h5>
-            <p class="text-home">TLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nibh eu ante
-                egestas,
-                id
-                placerat est pellentesque. Donec sed augue quam. Nam varius sapien nibh, quis euismod massa
+            <h1 class="display-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nibh eu ante
+                egestas, id placerat est pellentesque. Donec sed augue quam. Nam varius sapien nibh, quis euismod massa
                 tincidunt sit amet. Fusce facilisis sit amet neque et ornare. Integer imperdiet ligula a
-                ligula
-                pellentesque, ac tincidunt massa egestas. Phasellus blandit mollis erat, id molestie nunc
+                ligula pellentesque, ac tincidunt massa egestas. Phasellus blandit mollis erat, id molestie nunc
                 pharetra non. Nullam imperdiet tempor mauris sed suscipit. Phasellus non pretium augue.
                 Phasellus augue neque, tincidunt ac ornare sed, accumsan in elit. Aenean mi risus, tempus in
                 neque efficitur, sagittis pharetra felis. Cras in dui tellus. Maecenas in viverra justo, ac
@@ -41,45 +36,60 @@
                 auctor. Integer fringilla lorem id sapien dignissim vehicula eget eu nulla. Duis et cursus
                 dolor, sit amet mollis ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
                 In
-                hac habitasse platea dictumst.
+                hac habitasse platea dictumst.</p>
 
+        </div>
+    </section>
 
-                <section id="name">
-                    <div class="container">
-                        <div class="card bg-dark text-white">
-                            <img src="assets/images/coiffure-home.jpg" class="card-img" alt="Coiffure">
-                            <div class="card-img-overlay">
-                                <h5 class="card-title">Coiffure</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                content. This content is a little bit longer.</p>
-            <p class="card-text">Last updated 3 mins ago</p>
-            <button type="button" class="btn btn-outline-light">Découvrir</button>
-            </div>
-            </div>
-            <div class="card bg-dark text-white">
-                <img src="assets/images/makeup-home.jpg" class="card-img" alt="Coiffure">
-                <div class="card-img-overlay">
-                    <h5 class="card-title">Maquillage</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                        additional
-                        content. This content is a little bit longer.</p>
-                    <p class="card-text">Last updated 3 mins ago</p>
-                    <button type="button" class="btn btn-outline-light">Découvrir</button>
+    <section id="home-cards">
+        <div class="container">
+
+            <div class="row g-4">
+                <div class="col-lg">
+                    <div class="card bg-dark text-white" style="background-image: url(assets/images/coiffure-home.jpg);">
+                        <div class="card-body">
+                            <h5 class="card-title">Coiffure</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional
+                                content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                            <button type="button" class="btn btn-outline-light">Découvrir</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg">
+                    <div class="card bg-dark text-white" style="background-image: url(assets/images/makeup-home.jpg);">
+                        <div class="card-body">
+                            <h5 class="card-title">Maquillage</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional
+                                content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                            <button type="button" class="btn btn-outline-light">Découvrir</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg">
+                    <div class="card bg-dark text-white" style="background-image: url(assets/images/manucure-home.jpg);">
+                        <div class="card-body">
+                            <h5 class="card-title">Manucure</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                                additional
+                                content. This content is a little bit longer.</p>
+                            <p class="card-text">Last updated 3 mins ago</p>
+                            <button type="button" class="btn btn-outline-light">Découvrir</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="card bg-dark text-white">
-                <img src="assets/images/manucure-home.jpg" class="card-img" alt="Coiffure">
-                <div class="card-img-overlay">
-                    <h5 class="card-title">Manucure</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                        additional
-                        content. This content is a little bit longer.</p>
-                    <p class="card-text">Last updated 3 mins ago</p>
-                    <button type="button" class="btn btn-outline-light">Découvrir</button>
-                </div>
-            </div>
-            </div>
-        </section>
+
+
+
+
+
+
+
+        </div>
     </section>
 
 </main>

@@ -10801,39 +10801,24 @@ textarea.form-control-lg {
 }
 
 footer {
-<<<<<<< Updated upstream
   border: 4px solid red;
-=======
->>>>>>> Stashed changes
   margin: 0;
   padding: 5px;
   background-color: #CEC7F2;
 }
 
-<<<<<<< Updated upstream
 #navbar-footer ul li a {
   display: flex;
   text-decoration: none;
   color: inherit;
 }
 
-=======
->>>>>>> Stashed changes
 #description {
   display: flex;
   max-width: 1200px;
   margin: auto;
 }
 
-<<<<<<< Updated upstream
-=======
-#navbar-footer ul li a {
-  display: flex;
-  text-decoration: none;
-  color: inherit;
-}
-
->>>>>>> Stashed changes
 #description .container {
   -moz-column-gap: 20px;
        column-gap: 20px;
@@ -10849,42 +10834,25 @@ footer {
   width: 50%;
 }
 
-<<<<<<< Updated upstream
-* {
-  box-sizing: border-box;
-}
-
 #col {
   text-decoration: none;
-=======
-#main * {
-  box-sizing: border-box;
-  font-family: "Open Sans Condensed", sans-serif;
-  margin: 0;
-  padding: 0;
-}
-#main body {
-  margin: 0;
-  padding: 0;
-}
-#main .container {
-  margin: auto;
-  max-width: 1200px;
-}
-#main #home-jumbotron {
-  background-color: mediumpurple;
-  background-size: cover;
-}
-#main #home-prestation .text-wrapper {
-  text-align: center;
-  color: red;
-}
-#main #intermedia {
-  background-color: mediumpurple;
-  background-size: cover;
 }
 
-.card-text {
-  margin-left: 100px;
->>>>>>> Stashed changes
+#home-hero {
+  padding: 100px 0;
+  color: #fff;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+#home-cards {
+  padding: 100px 0;
+}
+#home-cards .card {
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }

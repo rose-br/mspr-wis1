@@ -1,6 +1,6 @@
 <?php require_once 'template-parts/header.php' ?>
-
-    <section id="home-hero" style="background-image: url(assets/images/makeup-home.jpg)">
+    <body style="background-image: url(assets/images/back-g.png)">
+    <section id="home-hero1" style="background-image: url(assets/images/makeup-home.jpg)">
 
     </section>
 
@@ -109,5 +109,5 @@
             <button class="btn btn-primary" type="button">Voir les autres services</button>
         </div>
     </section>
-
+</body>
 <?php require_once 'template-parts/footer.php'; ?>

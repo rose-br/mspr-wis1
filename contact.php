@@ -3,8 +3,26 @@
 <section>
 
     <div class="container">
-        <h2>OUPS ! Il y a eu un petit soucis. Revenez un peu plus tard !</h2>
-        <img src="assets/images/undraw_page_not_found_su7k.png" align="center center ">
+       <h1> Nous contacter </h1>
+
+        <ul> 16 rue du générale de Gaulle</ul>
+        <ul> mail: contact@mcmbeauty.com</ul>
+        <ul>+ 33 6 25 24 45 98 </ul>
+    </div>
+
+    <div class="text-center">
+        <h2> Rose Brochard-Reigné</h2>
+        <ul> mon linkedin</ul>
+        <ul> mon site CV</ul>
+        <button type="button" class=" btn btn-primary btn-lg "> Bouton pour télécharger mon CV papier</button>
+    </div>
+
+
+    <div class="text-center">
+        <h2> Amauryne Duval</h2>
+        <ul> mon linkedin</ul>
+        <ul> mon site CV</ul>
+        <button type="button" class=" btn btn-primary btn-lg "> Bouton pour télécharger mon CV papier</button>
     </div>
 
 </section>

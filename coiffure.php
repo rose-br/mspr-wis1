@@ -3,7 +3,7 @@
 
     <section id="home-hero1" style="background-image: url(assets/images/coiffure-home.jpg)">
 
-    </section>
+
 
     <section id="service-cards">
         <div class="container">
@@ -109,5 +109,5 @@
             <button class="btn btn-primary" type="button">Voir les autres services</button>
         </div>
     </section>
-
+    </section>
 <?php require_once 'template-parts/footer.php'; ?>

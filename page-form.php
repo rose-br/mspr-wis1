@@ -23,8 +23,10 @@
     </section>
     <div class="container">
 
-        <legend>Formulaire de contact</legend>
+
         <form>
+            <legend><strong>Formulaire de contact</strong> </legend>
+
             <div class="mb-3">
                 <label for="first_name" class="form-label">Prénom </label>
                 <input type="text" class="form-control"
@@ -56,7 +58,8 @@
             </div>
 
 
-<div class="container m-3">
+<div class="container mb-3 align-text-bottom" >
+    
     <legend> Vous voulez être modèle pour:</legend>
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">

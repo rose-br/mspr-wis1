@@ -3,7 +3,7 @@
     
         <section id="footer-nav text-align center">
             <div class="container">
-                <div class="row align-items-center">
+                <div class="carrote row align-items-center">
                     <div class="col">
                         <img src="assets/images/Logo.png" width="200px" height="200px">
                     </div>
@@ -21,27 +21,27 @@
                             </div>
                         </section>
                     </div>
-                    <div class="col">
+                    <div class="col-3">
 
                         <h2>Plan du site</h2>
 
                             <ul>
-                                <a href="/index.php/">Accueil </a>
+                                <a href="/index.php/" class="text-decoration-none">Accueil  </a>
                             </ul>
                             <ul>
-                                <a href="qui-sommes-nous.php"> Qui sommes-nous </a>
+                                <a href="qui-sommes-nous.php" class="text-decoration-none"> Qui sommes-nous ? </a>
                             </ul>
                             <ul>
-                                <a href="#">Les prestations </a>
+                                <a href="#" class="text-decoration-none">Les prestations </a>
                             </ul>
                             <ul>
-                                <a href="prestataire.php">Prestations modèles</a>
+                                <a href="prestataire.php" class="text-decoration-none">Prestations modèles</a>
                             </ul>
                             <ul>
-                                <a href="a-propos.php">A propos</a>
+                                <a href="a-propos.php" class="text-decoration-none">A propos</a>
                             </ul>
                             <ul>
-                                <a href="contact.php">Contact</a>
+                                <a href="contact.php" class="text-decoration-none">Contact</a>
                             </ul>
 
                     </div>

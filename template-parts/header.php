@@ -12,7 +12,7 @@
                 </ul>
             </li>
             <li><a href="page-form.php">Candidature modèle</a></li>
-            <li><a href="../apropos.php">A propos</a></li>
+            <li><a href="apropos.php">A propos</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>

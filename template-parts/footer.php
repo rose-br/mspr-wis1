@@ -38,7 +38,7 @@
                                 <a href="prestataire.php" class="text-decoration-none">Prestations modèles</a>
                             </ul>
                             <ul>
-                                <a href="../apropos.php" class="text-decoration-none">A propos</a>
+                                <a href="apropos.php" class="text-decoration-none">A propos</a>
                             </ul>
                             <ul>
                                 <a href="contact.php" class="text-decoration-none">Contact</a>

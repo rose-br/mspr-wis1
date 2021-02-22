@@ -6,6 +6,7 @@
        <h1> Nous contacter </h1>
 
         <ul> 16 rue du générale de Gaulle</ul>
+        <ul> 44200 Nantes </ul>
         <ul> mail: contact@mcmbeauty.com</ul>
         <ul>+ 33 6 25 24 45 98 </ul>
     </div>

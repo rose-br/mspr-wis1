@@ -11075,6 +11075,6 @@ footer {
   transition: 0.4s ease;
 }
 #contact .card .info button:hover {
-  background: dodgerblue;
+  background: #CEC7F2;
   color: white;
 }

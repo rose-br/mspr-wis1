@@ -10862,12 +10862,6 @@ footer {
 #home-cards {
   padding: 100px 0;
 }
-#home-cards .card {
-  height: 100%;
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
 
 .wrapper {
   display: flex;
@@ -10880,7 +10874,7 @@ footer {
   height: 280px;
   border-radius: 15px;
   padding: 1.5rem;
-  background: white;
+  background: black;
   position: relative;
   display: flex;
   align-items: flex-end;
@@ -11083,50 +11077,4 @@ footer {
 #contact .card .info button:hover {
   background: dodgerblue;
   color: white;
-}
-
-.card-text {
-  margin-left: 100px;
-}
-
-#carte {
-  padding-top: 100px;
-  padding-bottom: 300px;
-}
-
-.card-text {
-  margin-left: 100px;
-}
-
-#carte {
-  padding-top: 100px;
-  padding-bottom: 300px;
-}
-
-body {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: orange;
-}
-
-.wrapper {
-  display: flex;
-  width: 90%;
-  justify-content: space-around;
-}
-
-.card-text {
-  margin-left: 100px;
-}
-
-#carte {
-  padding-top: 100px;
-  padding-bottom: 300px;
-}
-
-#button {
-  color: #CEC7F2;
 }

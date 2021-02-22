@@ -5,7 +5,7 @@
     <section id="home-hero" style="background-image: url(assets/images/image-home.jpg)">
         <div class="container">
 
-            <h1 class="display-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
+            <h1 class="display-3">MCM beauty</h1>
             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan nibh eu ante
                 egestas, id placerat est pellentesque. Donec sed augue quam. Nam varius sapien nibh, quis euismod massa
                 tincidunt sit amet. Fusce facilisis sit amet neque et ornare. Integer imperdiet ligula a

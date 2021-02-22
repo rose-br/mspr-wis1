@@ -1,6 +1,6 @@
 <?php require_once 'template-parts/header.php'; ?>
+<body style="background-image: url(assets/images/back-g.png)">
 
-<section>
 
     <div class="container">
        <h1> Nous contacter </h1>
@@ -49,5 +49,6 @@
     </div>
 </div>
 </section>
+</body>
 
 <?php require_once 'template-parts/footer.php'; ?>

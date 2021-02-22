@@ -1,4 +1,5 @@
 <?php require_once 'template-parts/header.php'; ?>
+<body style="background-image: url(assets/images/back-g.png)">
 <section id="prestation">
 <div class="container">
 <div class="wrapper">
@@ -29,6 +30,6 @@
 </div>
 </div>
 </section>
-
+</body>
 
 <?php require_once 'template-parts/footer.php'; ?>

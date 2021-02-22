@@ -48,25 +48,25 @@
                 <div class="card-20">
                     <img src="assets/images/makeup-home.jpg"/>
                     <div class="info">
-                        <h1>Mountain</h1>
-                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
-                        <button>Read More</button>
+                        <h1>Maquillage</h1>
+                        <p>Retrouver tous les préstataires dans le domaine du Maquillage</p>
+                        <button>Voir Plus</button>
                     </div>
                 </div>
                 <div class="card-20">
                     <img src="assets/images/coiffure-home.jpg"/>
                     <div class="info">
-                        <h1>Road</h1>
-                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
-                        <button>Read More</button>
+                        <h1>Coiffure</h1>
+                        <p>Retrouver tous les préstataires dans le domaine de la Coiffure</p>
+                        <button>Voir Plus</button>
                     </div>
                 </div>
                 <div class="card-20">
                     <img src="assets/images/manucure-home.jpg"/>
                     <div class="info">
-                        <h1>Protester</h1>
-                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
-                        <button>Read More</button>
+                        <h1>Manucure</h1>
+                        <p>Retrouver tous les préstataires dans le domaine de la Manucure</p>
+                        <button>Voir Plus</button>
                     </div>
                 </div>
             </div>

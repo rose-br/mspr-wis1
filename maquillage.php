@@ -110,7 +110,7 @@
         </div>
 
         <div class="d-grid gap-2 col-6 mx-auto py-5">
-            <button class="btn btn-primary" type="button">Voir les autres services</button>
+            <a href="prestation.php" class="btn btn-primary" type="button">Voir les autres services</a>
         </div>
     </section>
 </body>

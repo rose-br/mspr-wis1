@@ -17,9 +17,8 @@
                 <a href="#" rel="lightbox[multi]"><img
                             style="float: right; margin-left: 30px;" src="assets/images/logo-salon2.jpg" alt=""
                             width="400" height="400"
-">
                 </a>
-                La coiffure est notre passion, faire de votre instant coiffure un moment de détente pour vous, une
+                <p> La coiffure est notre passion, faire de votre instant coiffure un moment de détente pour vous, une
                 véritable pause, afin de vous rendre unique.</p>
                 <p>Nous attachons le plus grand soin à la qualité de nos services, nous prenons le temps de vous écouter
                     afin de vous proposer ce qu’il vous conviendra le mieux en respectant votre personnalité.</p>
@@ -27,7 +26,6 @@
                 <p>Faites confiance à nos coiffeurs stylistes certifiés pour révéler la beauté de vos cheveux et mettre
                     en valeur votre capital séduction.</p>
 
-                <p>&nbsp;</p>
 
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus architecto aut commodi

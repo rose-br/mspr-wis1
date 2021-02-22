@@ -25,7 +25,7 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
 
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                                 <li class="list-group-item">lieu: ecole/salon de coiffure</li>
                                 <li class="list-group-item">En 1ère année de BTS coiffure</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                                 <li class="list-group-item">Au choix</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="#" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
         </div>
 
         <div class="d-grid gap-2 col-6 mx-auto py-5">
-            <button class="btn btn-primary" type="button">Voir les autres services</button>
+            <a href="prestation.php" class="btn btn-primary" type="button">Voir les autres services</a>
         </div>
     </section>
 

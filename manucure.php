@@ -1,7 +1,11 @@
 <?php require_once 'template-parts/header.php' ?>
 
-
+    <body style="background-image: url(assets/images/back-g.png)">
     <section id="home-hero1" style="background-image: url(assets/images/manucure-home.jpg)">
+        <div class="container">
+
+            <h3 class="display-1">Lorem titre</h3>
+        </div>
 
     </section>
 
@@ -109,5 +113,6 @@
             <button class="btn btn-primary" type="button">Voir les autres services</button>
         </div>
     </section>
+    </body>
 
 <?php require_once 'template-parts/footer.php'; ?>

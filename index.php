@@ -1,7 +1,7 @@
 <?php require_once 'template-parts/header.php'; ?>
 
 <main id="main">
-<body background="assets/images/bg.jpg">
+<body background="assets/images/back-g.png">
     <section id="home-hero" style="background-image: url(assets/images/image-home.jpg)">
         <div class="container">
 
@@ -44,49 +44,36 @@
     <section id="home-cards">
         <div class="container">
 
-            <div class="row g-4">
-                <div class="col-lg">
-                    <div class="card bg-dark text-white"
-                         style="background-image: url(assets/images/coiffure-home.jpg);">
-                        <div class="card-body">
-                            <h5 class="card-title">Coiffure</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                                additional
-                                content. This content is a little bit longer.</p>
-                            <p class="card-text">Last updated 3 mins ago</p>
-                            <button type="button" class="btn btn-outline-light">Découvrir</button>
-                        </div>
+            <div class="wrapper">
+                <div class="card-20">
+                    <img src="assets/images/makeup-home.jpg"/>
+                    <div class="info">
+                        <h1>Mountain</h1>
+                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
+                        <button>Read More</button>
                     </div>
                 </div>
-                <div class="col-lg ">
-                    <div class="card bg-dark text-white" style="background-image: url(assets/images/makeup-home.jpg);">
-                        <div class="card-body">
-                            <h5 class="card-title">Maquillage</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                                additional
-                                content. This content is a little bit longer.</p>
-                            <p class="card-text">Last updated 3 mins ago</p>
-                            <button type="button" class="btn btn-outline-light">Découvrir</button>
-                        </div>
+                <div class="card-20">
+                    <img src="assets/images/coiffure-home.jpg"/>
+                    <div class="info">
+                        <h1>Road</h1>
+                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
+                        <button>Read More</button>
                     </div>
                 </div>
-                <div class="col-lg">
-                    <div class="card bg-dark text-white"
-                         style="background-image: url(assets/images/manucure-home.jpg);">
-                        <div class="card-body">
-                            <h5 class="card-title">Manucure</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                                additional
-                                content. This content is a little bit longer.</p>
-                            <p class="card-text">Last updated 3 mins ago</p>
-                            <button type="button" class="btn btn-outline-light">Découvrir</button>
-                        </div>
+                <div class="card-20">
+                    <img src="assets/images/manucure-home.jpg"/>
+                    <div class="info">
+                        <h1>Protester</h1>
+                        <p>Lorem Ipsum is simply dummy text from the printing and typeseting industry</p>
+                        <button>Read More</button>
                     </div>
                 </div>
             </div>
-
         </div>
     </section>
+
+
 </body>
 </main>
 <?php require_once 'template-parts/footer.php'; ?>

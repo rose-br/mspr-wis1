@@ -16,7 +16,4 @@
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
-    <div class="container">
-        <hr>
-    </div>
 </header>

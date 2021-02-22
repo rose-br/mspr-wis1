@@ -1,8 +1,10 @@
 <?php require_once 'template-parts/header.php'; ?>
 
-<section>
 
-    <div class="container">
+<body id="home-hero" style="background-image: url(assets/images/tache-violet2.png)">
+<section id="qsn">
+    <div class=" position-absolute top-50 start-50 translate-middle" >
+
      <H2> Bonjour à tous ! </H2>
         <p> Nous sommes les créatrices du groupe MCM Beauty,
             deux jeunes ambitieuses étudiantes ayant créé cette micro-entreprise pour un projet d’école.
@@ -20,5 +22,6 @@
     </div>
 
 </section>
+</body>
 
-<?php require_once 'template-parts/header.php'; ?>
+

@@ -16,7 +16,7 @@
 
             <div class="row g-4">
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -46,7 +46,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -61,7 +61,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -91,7 +91,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">

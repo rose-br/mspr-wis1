@@ -22,9 +22,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Marc Assain</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnel</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Depuis 7 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
 
@@ -38,9 +38,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Lucie Ditée</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnelle</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Depuis 1 an</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -53,8 +53,8 @@
                         <div class="card-body">
                             <h5 class="card-title">Kelly Diossi</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: Etudiante</li>
-                                <li class="list-group-item">lieu: ecole/salon de coiffure</li>
+                                <li class="list-group-item">Niveau: Etudiante</li>
+                                <li class="list-group-item">Lieu: ecole/salon de coiffure</li>
                                 <li class="list-group-item">En 1ère année de BTS coiffure</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
@@ -68,9 +68,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Jérémy Ade</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnel</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Depuis 3 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -83,9 +83,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Jeanne Aymard</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnelle</li>
+                                <li class="list-group-item">Travail à domicile/salon</li>
+                                <li class="list-group-item">Depuis 4 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -98,9 +98,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Eva Zionn</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: Etudiante</li>
-                                <li class="list-group-item">Au choix</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: Etudiante</li>
+                                <li class="list-group-item">Lieux: ecole et salon de coiffure</li>
+                                <li class="list-group-item">En 2ème année de BTS</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>

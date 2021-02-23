@@ -22,9 +22,9 @@
                         <div class="card-body">
                             <h5 class="card-title"> André Céouver </h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnel</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Depuis 3 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
 
@@ -38,9 +38,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Sam Lécasse</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnel</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Depuis 3 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -53,9 +53,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Sarah Masse</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: Etudiante</li>
-                                <li class="list-group-item">lieu: ecole/salon de coiffure</li>
-                                <li class="list-group-item">En 1ère année de BTS coiffure</li>
+                                <li class="list-group-item">Niveau: Etudiante</li>
+                                <li class="list-group-item">Lieu: ecole</li>
+                                <li class="list-group-item">En 1ère année de BTS </li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -68,9 +68,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Sylvain Ebon</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnel</li>
+                                <li class="list-group-item">Travail à domicile/salon</li>
+                                <li class="list-group-item">Depuis 15 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -83,9 +83,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Terry Dicule</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: fin d'apprentissage</li>
+                                <li class="list-group-item">Travail à domicile</li>
+                                <li class="list-group-item">Dernière année de BTS </li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
@@ -98,9 +98,9 @@
                         <div class="card-body">
                             <h5 class="card-title">Théa Louest</h5>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">niveau: professionnel.le</li>
-                                <li class="list-group-item">travail à domicile</li>
-                                <li class="list-group-item">depuis 3 ans</li>
+                                <li class="list-group-item">Niveau: professionnelle</li>
+                                <li class="list-group-item">Travail dans le domaine du maquillage de cinéma</li>
+                                <li class="list-group-item">Depuis 2 ans</li>
                             </ul>
                             <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>

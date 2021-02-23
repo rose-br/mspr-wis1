@@ -62,7 +62,7 @@
 <div class="container mb-3 align-text-bottom " >
     
     <legend> Vous voulez être modèle pour:</legend>
-          <div class="card text-dark">
+          <div class="check card text-white bg-dark align-middle align-items-center" style="max-width: 18rem;">
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
                 <label class="form-check-label" for="flexSwitchCheckDefault">Maquillage</label>

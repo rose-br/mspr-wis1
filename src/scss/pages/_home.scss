@@ -1,6 +1,8 @@
 #home-hero {
   padding: 400px;
   color: #ffffff;
+  text-shadow: -1px 0 black, 0 1px black,
+  3px 0 black, 0 -1px black;
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -13,7 +15,13 @@
   background-repeat: no-repeat;
   text-align: center;
 }
-
+#home-hero2 {
+  padding: 400px;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
 #home-cards {
   padding: 200px 0;
 

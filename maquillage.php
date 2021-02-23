@@ -3,7 +3,7 @@
     <section id="home-hero1" style="background-image: url(assets/images/makeup-home.jpg)">
         <div class="container">
 
-            <h3 class="display-1">Lorem titre</h3>
+            <h3 class="display-1">Maquillage</h3>
         </div>
 
     </section>

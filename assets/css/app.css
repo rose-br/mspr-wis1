@@ -10783,7 +10783,7 @@ body {
   box-shadow: 0px 1px 2px #CCC;
   background-color: white;
   position: fixed;
-  width: 100%;
+  width: calc(100% / 6);
 }
 #header nav > ul li:hover .sous {
   display: block;
@@ -10844,7 +10844,7 @@ i {
 }
 
 #home-hero {
-  padding: 600px;
+  padding: 500px;
   color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;

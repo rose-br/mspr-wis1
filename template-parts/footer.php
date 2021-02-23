@@ -1,4 +1,6 @@
 <?php require_once 'head.php'; ?>
+
+<main id="main">
 <section class="fixe d-flex flex-column">
 <!-- For demo purpose -->
 <div class="container-fluid flex-grow-1 flex-shrink-0">
@@ -64,3 +66,4 @@
 <!-- End -->
 
 </section>
+</main>

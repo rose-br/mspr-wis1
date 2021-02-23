@@ -6,7 +6,8 @@
         <section id="home-hero" style="background-image: url(assets/images/tache-violet2.png)" >
             <div class="container">
 
-                <h1 class="display-3">Bonjour à tous ! </h1>
+                <h1 class="display-3">A propos ! </h1>
+                <br>
                 <p class="lead">Notre entreprise a pour objectif de référencer les professionnels et prestataires de maquillage,coiffure et manucure.
                     Le but de notre entreprise est d'augmenter la visibilité de ses indépendants en exposant leurs modèles photos dans les milieux qu’ils pratiquent.
                     Elle permettra aussi de faciliter l’entrée dans la vie active de ce milieu pour les apprenties encore en formation qui souhaite déjà commencer à exercer et

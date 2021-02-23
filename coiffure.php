@@ -1,4 +1,5 @@
 <?php require_once 'template-parts/header.php' ?>
+    <main id="main">
     <body style="background-image: url(assets/images/back-g.png)">
 
     <section id="home-hero1" style="background-image: url(assets/images/coiffure-home.jpg)">
@@ -114,4 +115,5 @@
         </div>
     </section>
 
+    </main>
 <?php require_once 'template-parts/footer.php'; ?>

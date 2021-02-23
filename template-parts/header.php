@@ -1,4 +1,6 @@
 <?php require_once 'head.php'; ?>
+
+<main id="main">
 <header id="header">
     <nav>
         <ul>
@@ -17,3 +19,4 @@
         </ul>
     </nav>
 </header>
+</main>

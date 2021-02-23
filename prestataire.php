@@ -1,4 +1,5 @@
 <?php require_once 'template-parts/header.php'; ?>
+<main id="main">
 <body style="background-image: url(assets/images/back-g.png)">
 
 <section id="prestataire">
@@ -66,5 +67,5 @@
 
 </section>
 </body>
-
+</main>
 <?php require_once 'template-parts/header.php'; ?>

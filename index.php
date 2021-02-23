@@ -5,7 +5,7 @@
     <section id="home-hero" style="background-image: url(assets/images/image-home.jpg)" >
         <div class="container">
 
-            <h1 class="display-3">MCM beauty</h1>
+            <h1 class="display-3">MCM Beauty</h1>
             <p class="lead">Bienvenue à tous sur le site de MCM beauty, il permet de référencer des dizaines d’entreprises sur nantes et les alentours dans les domaines de la Manucure, Coiffure et du Maquillage, d’où notre nom MCM !
                 Vous pourrez tout au long de notre site découvrir de nouveaux artistes, et bien entendu le principe de notre site !</p>
 

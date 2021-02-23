@@ -10844,7 +10844,7 @@ i {
 }
 
 #home-hero {
-  padding: 500px;
+  padding: 400px;
   color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10988,7 +10988,8 @@ body {
 }
 
 .display-1 {
-  margin-top: 50px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 -1px black;
 }
 
 #button {

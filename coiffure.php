@@ -15,7 +15,7 @@
             <h1 class="text-center">Coiffure</h1>
 
             <div class="row g-4">
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -25,13 +25,13 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
 
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class="  col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -41,12 +41,12 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -56,12 +56,12 @@
                                 <li class="list-group-item">lieu: ecole/salon de coiffure</li>
                                 <li class="list-group-item">En 1ère année de BTS coiffure</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -71,12 +71,12 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -86,12 +86,12 @@
                                 <li class="list-group-item">travail à domicile</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">
                     <div class="card h-100">
                         <img src="assets/images/image-home.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -101,7 +101,7 @@
                                 <li class="list-group-item">Au choix</li>
                                 <li class="list-group-item">depuis 3 ans</li>
                             </ul>
-                            <a href="prestataire.php" class="btn btn-primary"> Voir plus </a>
+                            <a href="prestataire.php" class="btn btn-outline-dark"> Voir plus </a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
         </div>
 
         <div class="d-grid gap-2 col-6 mx-auto py-5">
-            <a href="prestation.php" class="btn btn-primary" type="button">Voir les autres services</a>
+            <a href="prestation.php" class="btn btn-outline-dark" type="button">Voir les autres services</a>
         </div>
     </section>
 

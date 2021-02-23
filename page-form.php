@@ -79,8 +79,8 @@
           </div>
     </div>
 
-            <div class="dark button-wrapper py-5 text-center">
-                <button class="btn btn-light" type="submit">Envoyer</button>
+            <div class="button-wrapper py-5 text-center">
+                <button class="btn btn-outline-dark" type="submit">Envoyer</button>
             </div>
         </form>
     </div>

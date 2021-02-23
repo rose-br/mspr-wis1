@@ -10970,6 +10970,10 @@ body {
   padding: 300px;
 }
 
+#prestataire {
+  margin-top: 150px;
+}
+
 .card-text {
   margin-left: 100px;
 }
@@ -10990,6 +10994,10 @@ body {
 .display-1 {
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 -1px black;
+}
+
+.space {
+  margin: 5px;
 }
 
 #button {

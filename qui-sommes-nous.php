@@ -21,6 +21,13 @@
           Vous pouvez dès à présent vous balader sur le site et découvrir de nouveaux professionnels !
       </p>
 
+        <h3>Recherche de stage !</h3>
+        <p> En tant qu’étudiantes de 1ere année nous devons effectuer des stages professionnels dans le domaine du Web, qui touche au marketing, Développement front end, Communication.
+            Pour plus d’information vous pourrez nous contacter !
+            Nous mettons donc à votre disposition nos CV respectifs que vous pourrez retrouver sur la page contact.
+        </p>
+        <span> Merci d'avance !</span>
+
     </div>
     </div>
 </section>

@@ -1,7 +1,7 @@
 <?php require_once 'template-parts/header.php'; ?>
 <body style="background-image: url(assets/images/back-g.png)">
 
-<section>
+<section id="prestataire">
 
     <div class="container">
         <h2>Nadine dupuis </h2>
@@ -14,10 +14,11 @@
                 <h2>Découvrir Beauty coiffure</h2>
 
                 <p> Coiffeur pour hommes, femmese et enfants </p>
-                <a href="#" rel="lightbox[multi]"><img
-                            style="float: right; margin-left: 30px;" src="assets/images/logo-salon2.jpg" alt=""
-                            width="400" height="400"
-                </a>
+
+                    <img style="float: right; margin-left: 30px;" src="assets/images/logo-salon2.jpg" alt=""
+                    width="400" height="400">
+
+
                 <p> La coiffure est notre passion, faire de votre instant coiffure un moment de détente pour vous, une
                 véritable pause, afin de vous rendre unique.</p>
                 <p>Nous attachons le plus grand soin à la qualité de nos services, nous prenons le temps de vous écouter

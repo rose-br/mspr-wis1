@@ -10731,6 +10731,10 @@ textarea.form-control-lg {
   padding: 0;
 }
 
+body {
+  height: 100%;
+}
+
 #form {
   border: 3px solid rebeccapurple;
   width: auto;
@@ -10958,12 +10962,8 @@ i {
   color: white;
 }
 
-body {
-  height: 100vh;
-}
-
-.position-absolute {
-  margin-top: 200px;
+#qsn {
+  height: 90%;
 }
 
 #prestation {

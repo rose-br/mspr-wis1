@@ -10731,6 +10731,10 @@ textarea.form-control-lg {
   padding: 0;
 }
 
+body {
+  height: 100%;
+}
+
 #form {
   border: 3px solid rebeccapurple;
   width: auto;
@@ -10956,10 +10960,6 @@ i {
 .card-20 .info button:hover {
   background: #CEC7F2;
   color: white;
-}
-
-body {
-  height: 100vh;
 }
 
 #qsn {

@@ -11096,3 +11096,12 @@ i {
 .space {
   margin: 5px;
 }
+
+.map {
+  margin-top: 200px;
+}
+
+.contact {
+  margin: 100px;
+  text-align: center;
+}

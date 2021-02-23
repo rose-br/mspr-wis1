@@ -5,7 +5,7 @@
     <section id="home-hero1" style="background-image: url(assets/images/coiffure-home.jpg)">
         <div class="container">
 
-            <h3 class="display-1">Coiffure</h3>
+            <h1 class="display-1">Coiffure</h1>
         </div>
     </section>
 
@@ -13,7 +13,7 @@
     <section id="service-cards">
         <div class="container">
 
-            <h1 class="text-center">Coiffure</h1>
+
 
             <div class="row g-4">
                 <div class=" col-md-6 col-lg-4 shadow p-3 mb-5 bg-body rounded">

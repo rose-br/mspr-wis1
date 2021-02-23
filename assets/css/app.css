@@ -10727,6 +10727,8 @@ textarea.form-control-lg {
 }
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 #form {
@@ -10805,45 +10807,44 @@ body {
   font-size: 12px;
 }
 
-footer {
-  margin: 0;
-  padding: 5px;
-  background-color: #CEC7F2;
+.fixe {
+  background: #a360fc;
+  background: linear-gradient(to right, #684dfa, #b29ff8);
+  min-height: 200px;
 }
 
-#navbar-footer ul li a {
-  display: flex;
-  text-decoration: none;
-  color: inherit;
+#button-addon1 {
+  color: #ffc371;
 }
 
-#description {
-  display: flex;
-  max-width: 1200px;
-  margin: auto;
+i {
+  color: #ffc371;
 }
 
-#description .container {
-  -moz-column-gap: 20px;
-       column-gap: 20px;
+.form-control::-moz-placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
 }
 
-#span {
-  background-color: #CEC7F2;
-  max-width: inherit;
+.form-control:-ms-input-placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
 }
 
-#footer-nav {
-  border: 8px solid chocolate;
-  width: 50%;
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
 }
 
-#col {
-  text-decoration: none;
+.form-control.shadow-0:focus {
+  box-shadow: none;
 }
 
 #home-hero {
-  padding: 100px 0;
+  padding: 600px;
   color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10860,7 +10861,7 @@ footer {
 }
 
 #home-cards {
-  padding: 100px 0;
+  padding: 200px 0;
 }
 
 .wrapper {
@@ -10957,6 +10958,14 @@ footer {
   color: white;
 }
 
+body {
+  height: 100vh;
+}
+
+.position-absolute {
+  margin-top: 200px;
+}
+
 #prestation {
   padding: 300px;
 }
@@ -10965,13 +10974,8 @@ footer {
   margin-left: 100px;
 }
 
-#carte {
-  padding-top: 100px;
-  padding-bottom: 300px;
-}
-
-.card-text {
-  margin-left: 100px;
+.card-body {
+  text-align: center;
 }
 
 #carte {
@@ -10979,13 +10983,12 @@ footer {
   padding-bottom: 300px;
 }
 
-.card-text {
-  margin-left: 100px;
+.btn {
+  background: #cabcfd;
 }
 
-#carte {
-  padding-top: 100px;
-  padding-bottom: 300px;
+.display-1 {
+  margin-top: 50px;
 }
 
 #button {

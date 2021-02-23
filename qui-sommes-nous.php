@@ -1,8 +1,9 @@
 <?php require_once 'template-parts/header.php'; ?>
 
-
+<main id="main">
 <body id="home-hero" style="background-image: url(assets/images/tache-violet2.png)">
 <section id="qsn">
+    <div class="container">
     <div class=" position-absolute top-50 start-50 translate-middle" >
 
      <H2> Bonjour à tous ! </H2>
@@ -19,9 +20,11 @@
           Nous avons créé l’entreprise lors d’un projet réalisé dans le cadre de notre école (Les MSPR : Mise en Situation Professionnelle Reconstituée) axé sur du HTML5/CSS3 où nous devions réaliser un site présentant un service ou un produit. Un service qui permet de référencer tous les coiffeurs, (s’étant inscrit sur notre plateforme), maquilleur et de créateur ongulaire (explication du html)
           Vous pouvez dès à présent vous balader sur le site et découvrir de nouveaux professionnels !
       </p>
+
     </div>
-
+    </div>
 </section>
-</body>
 
+</body>
+</main>
 

@@ -1,7 +1,6 @@
     <?php require_once 'template-parts/header.php'; ?>
+    </body>
     <section>
-
-
 
         <section id="apropos">
             <div class="container position-absolute top-50 start-50 translate-middle"  >
@@ -20,7 +19,7 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109371.39305638435!2d-1.6300955507595454!3d47.23831721316538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4805ee81f0a8aead%3A0x40d37521e0ded30!2sNantes!5e1!3m2!1sfr!2sfr!4v1614010328767!5m2!1sfr!2sfr"
                     width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" class="position-absolute top-100 start-50 translate-middle"></iframe>
         </section>
-        </body>
+
 
 
 
@@ -28,4 +27,3 @@
     </section>
     </body>
 
-    <?php require_once 'template-parts/footer.php'; ?>

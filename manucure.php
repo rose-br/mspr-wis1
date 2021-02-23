@@ -4,7 +4,7 @@
     <section id="home-hero1" style="background-image: url(assets/images/manucure-home.jpg)">
         <div class="container">
 
-            <h3 class="display-1">Manucure</h3>
+            <h1 class="display-1">Manucure</h1>
         </div>
 
     </section>
@@ -12,7 +12,7 @@
     <section id="service-cards">
         <div class="container">
 
-            <h1 class="text-center">Manucure</h1>
+
 
             <div class="row g-4">
 

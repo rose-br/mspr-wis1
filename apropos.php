@@ -3,7 +3,7 @@
 <main id="main">
 
     <section id="qsn">
-        <section id="home-hero" style="background-image: url(assets/images/tache-violet2.png)" >
+        <section id="home-hero2" style="background-image: url(assets/images/tache-violet2.png)" >
             <div class="container">
 
                 <h1 class="display-3">A propos ! </h1>

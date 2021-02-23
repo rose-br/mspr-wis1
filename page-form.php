@@ -58,9 +58,10 @@
             </div>
 
 
-<div class="container mb-3 align-text-bottom" >
+<div class="container mb-3 align-text-bottom " >
     
     <legend> Vous voulez être modèle pour:</legend>
+          <div class="card text-dark">
             <div class="form-check form-switch">
                 <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
                 <label class="form-check-label" for="flexSwitchCheckDefault">Maquillage</label>
@@ -75,6 +76,7 @@
                 <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
                 <label class="form-check-label" for="flexSwitchCheckDefault">Manucure</label>
             </div>
+          </div>
     </div>
 
             <div class="button-wrapper py-5 text-center">

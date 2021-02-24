@@ -9,7 +9,7 @@
         <div class="info">
             <h1>Maquillage</h1>
             <p>Retrouver tous les préstataires dans le domaine du Maquillage</p>
-            <button>Voir Plus</button>
+            <a href="maquillage.php" class="info "> <button>Voir Plus</button> </a>
         </div>
     </div>
     <div class="card-20">
@@ -17,7 +17,7 @@
         <div class="info">
             <h1>Coiffure</h1>
             <p>Retrouver tous les préstataires dans le domaine de la Coiffure</p>
-            <button>Voir Plus</button>
+            <a href="coiffure.php" class="info "> <button>Voir Plus</button> </a>
         </div>
     </div>
     <div class="card-20">
@@ -25,7 +25,7 @@
         <div class="info">
             <h1>Manucure</h1>
             <p>Retrouver tous les préstataires dans le domaine de la Manucure</p>
-            <button>Voir Plus</button>
+            <a href="manucure.php" class="info "> <button>Voir Plus</button> </a>
         </div>
     </div>
 </div>
